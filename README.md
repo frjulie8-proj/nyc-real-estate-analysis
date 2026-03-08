@@ -5,17 +5,19 @@ NYC real estate transaction analysis using R
 
 ```
 nyc-real-estate-analysis
-├── data
-│   ├── NYC_TRANSACTION_DATA.csv
-│   ├── NEIGHBORHOOD.csv
-│   ├── BOROUGH.csv
-│   └── BUILDING_CLASS.csv
 ├── scripts
 │   └── analysis.R
-├── plots
-│   └── price_distribution.png
 └── README.md
 ```
+
+## Dataset
+
+The dataset used in this analysis is NYC property transaction data.
+
+Due to file size limitations (>100MB), the dataset is not included in this repository.
+
+It can be downloaded from:
+https://www.nyc.gov/site/finance/property/property-rolling-sales-data.page
 
 ## Usage
 
