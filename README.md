@@ -14,7 +14,7 @@ nyc-real-estate-analysis
 ├── docs
 │   └── project_tasks.md
 ├── scripts
-│   └── analysis.R
+│   └── bushwick_real_estate_analysis.R
 └── README.md
 ```
 
@@ -46,5 +46,5 @@ https://www.nyc.gov/site/finance/property/property-rolling-sales-data.page
 Run the analysis script from the project root:
 
 ```bash
-Rscript scripts/analysis.R
+Rscript scripts/bushwick_real_estate_analysis.R
 ```
